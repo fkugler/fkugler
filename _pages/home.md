@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Kugler Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Kugler Lab at the University of Cologne."
 sitemap: false
 permalink: /
 ---
