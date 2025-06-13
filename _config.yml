@@ -10,7 +10,7 @@ title: The Kugler Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Kugler Lab.
-baseurl: "fkugler/"
+baseurl: "https://fkugler.github.io/fkugler"
 url: ""
 
 include:
